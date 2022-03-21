@@ -1,3 +1,3 @@
-# Data_science_projects
+# transportation-project
 
-This repository holds Data Science projects I did in the past or ones in process.
+This repository holds a project for predicting number of rides given time-series data of ~10 month period.
